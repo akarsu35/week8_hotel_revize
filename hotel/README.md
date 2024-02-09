@@ -1,29 +1,19 @@
-Tourism Agency Hotel Management System
-This project is a hotel management system developed for a tourism agency, featuring both admin and employee user roles.
+Visit This Address: https://drive.google.com/file/d/1xCerXS-ZIBhWb_n3bf8OhsNG3esRMJ5g/view?usp=sharing
 
-Features
-Admin Features:
-View Users:
+Admin login username:aa password:aa
 
-Admin users can view a list of both admin and employee users.
-Manage Users:
+Employee login: username:bb password:bb
 
-Admins can add new users and remove existing ones.
-Employee Features:
-Room Reservation:
+Tourism Agency Hotel Management System This project is a hotel management system developed for a tourism agency, featuring both admin and employee user roles.
 
-View available rooms.
-Add new rooms.
-View existing hotels.
-Add new hotels.
-Pension and Season Management:
+Features Admin Features: View Users:
 
-Add pension options to existing hotels.
-Add seasonal variations to hotel availability.
-Reservation Control:
+Admin users can view a list of both admin and employee users. Manage Users:
 
-Check stock status of reserved rooms.
-Monitor the availability of rooms during a specified date range.
-Verify the number of guests for a particular room on specified dates.
-Usage
-For detailed instructions on how to use the system, please refer to the //User Guide.
+Admins can add new users and remove existing ones. Employee Features: Room Reservation:
+
+View available rooms. Add new rooms. View existing hotels. Add new hotels. Pension and Season Management:
+
+Add pension options to existing hotels. Add seasonal variations to hotel availability. Reservation Control:
+
+Check stock status of reserved rooms. Monitor the availability of rooms during a specified date range. Verify the number of guests for a particular room on specified dates.
